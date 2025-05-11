@@ -1,20 +1,9 @@
-.pertama{
-    border: 2px solid red;
-    display: inline-block;
-    margin: 2px;
-    padding: 5px;
+div{
+    width: 2000px;
+    display: flex;
 }
 
-.kedua{
+.item{
+    background-color: yellow;
     border: 2px solid red;
-    display: inline-block;
-    margin: 2px;
-    padding: 5px;
-}
-
-.ketiga{
-    border: 2px solid red;
-    display: inline-block;
-    margin: 2px;
-    padding: 5px;
 }
